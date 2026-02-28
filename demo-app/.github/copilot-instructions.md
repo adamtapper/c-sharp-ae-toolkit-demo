@@ -8,10 +8,10 @@ Library API demo application.
 
 ## Project Overview
 
-**Library API** is an ASP.NET Core 9 Web API that manages a library catalog of books,
+**Library API** is an ASP.NET Core 10 Web API that manages a library catalog of books,
 authors, and reviews. It uses:
 
-- **ASP.NET Core 9** with minimal hosting model
+- **ASP.NET Core 10** with minimal hosting model
 - **Entity Framework Core** with an in-memory database (for demo purposes)
 - **Repository + Service pattern** for separation of concerns
 - **xUnit + Moq + FluentAssertions** for testing
